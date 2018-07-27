@@ -55,4 +55,5 @@ public class TeamService {
 		t.removeChild(c);
 		return true;
 	}
+
 }
